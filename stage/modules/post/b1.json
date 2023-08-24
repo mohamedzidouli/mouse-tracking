@@ -1,0 +1,56 @@
+[
+    {
+      "mouseCoordinates": {
+        "data": {
+          "clickCount": {
+            "$numberInt": "1"
+          },
+          "moves": [
+            {
+              "x": {
+                "$numberInt": "571"
+              },
+              "y": {
+                "$numberInt": "600"
+              },
+              "time": {
+                "$numberDouble": "3123.2000002861023"
+              }
+            }
+          ],
+          "clicks": [],
+          "scrollCount": {
+            "$numberInt": "0"
+          }
+        }
+      },
+      "keyboardCoordinates": {
+        "keysPressed": [
+          "b",
+          "o",
+          "t",
+          "1",
+          "b",
+          "o",
+          "t",
+          "1",
+          "Shift",
+          "@",
+          "b",
+          "o",
+          "t",
+          ".",
+          "c",
+          "o",
+          "m"
+        ],
+        "keydownTime": {
+          "$numberInt": "660"
+        },
+        "keyupTime": {
+          "$numberDouble": "660.3000001907349"
+        }
+      }
+    }
+  ]
+  

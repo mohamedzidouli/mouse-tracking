@@ -1,0 +1,16 @@
+{
+  "name": "postmk",
+  "version": "1.4.6",
+  "description": "",
+  "main": "postData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow-models/knn-classifier": "^1.2.4",
+    "@tensorflow/tfjs": "^4.6.0",
+    "t-mouse": "^1.8.8"
+  }
+}
